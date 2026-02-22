@@ -11,7 +11,7 @@
 <h2>PCB</h2>
 Designed in KiCad
 
-<img width="573" height="730" alt="image" src="https://github.com/user-attachments/assets/df2655ef-00d7-4161-b2f2-aead48837fdc" />
+<img align="left" width="573" height="730" alt="image" src="https://github.com/user-attachments/assets/df2655ef-00d7-4161-b2f2-aead48837fdc" />
 <img width="392" height="663" alt="image" src="https://github.com/user-attachments/assets/b43d2135-7453-4f40-b341-af71b71b2795" />
 
 
