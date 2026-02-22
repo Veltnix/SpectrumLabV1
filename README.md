@@ -106,3 +106,6 @@ void loop() {
 <h2>🛡️ License:</h2>
 
 This project is licensed under the MIT
+
+<h2>Support me!</h2>
+Support me on hacklcub: https://blueprint.hackclub.com/projects/12271
