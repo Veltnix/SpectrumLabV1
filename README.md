@@ -16,7 +16,8 @@ Designed in KiCad
 
 
 <h2>Schematics</h2>
-<img width="415" height="286" alt="image" src="https://github.com/user-attachments/assets/41d2dbb8-2f9f-4785-917f-f53c19b87fe4" />
+<img width="859" height="589" alt="image" src="https://github.com/user-attachments/assets/7c107303-3ffb-49a6-bba5-201262f7e520" />
+
 
 
 <h2>Example code</h2><h2>
@@ -95,6 +96,12 @@ void loop() {
 <h2>JLCPCB Cart🛒</h2>
 
 <img width="1807" height="874" alt="image" src="https://github.com/user-attachments/assets/abd2ac47-5492-4b3a-925d-9fcb79f23f9c" />
+
+<h2>Programs used:</h2>
+<ul>KiCad (Schematics & PCB)</ul>
+<ul>Fusion 360 (Completing missing .step files)</ul>
+<ul>Blender (3D Render)</ul>
+
 
 <h2>🛡️ License:</h2>
 
