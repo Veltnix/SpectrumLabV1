@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://github.com/user-attachments/assets/c6c4052e-7d2f-421f-b4e4-b57198d1c54f" alt="project-image"></p>
 
-<p id="description">A Compact NIR Spectrosocpy DevBoard powered by ESP32-C3 and AS7263.</p>
+<p id="description">A Compact VIS- NIR Spectrosocpy DevBoard powered by ESP32-C3 and AS7263.</p>
 
 <p align="center"><img src="https://img.shields.io/badge/KiCad%209.0%20-111184" alt="shields"></p>
 
