@@ -23,7 +23,7 @@
 
 
 
-<h2>Example code</h2>
+<h2>Example code (Using SSD1306 for interface)</h2>
 
 ```
 #include <Wire.h>
