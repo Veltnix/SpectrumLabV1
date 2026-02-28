@@ -23,7 +23,7 @@
 
 
 
-<h2>Example code</h2><h2>
+<h2>Example code</h2>
 
 ```
 #include <Wire.h>
