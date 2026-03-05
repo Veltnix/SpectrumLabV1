@@ -217,23 +217,10 @@ void loop() {
 
 <hr>
 
-<h2>💰 BOM & Manufacturing Notes</h2>
+<h2>💰 BOM & Manufacturing</h2>
 
-<p>
-For future revisions, I plan to improve manufacturability and reduce cost by:
-</p>
+<img width="1807" height="874" alt="image" src="https://github.com/user-attachments/assets/abd2ac47-5492-4b3a-925d-9fcb79f23f9c" />
 
-<ul>
-<li>Reducing the number of unique passive values</li>
-<li>Using commonly stocked JLCPCB basic parts</li>
-<li>Minimizing special placement components</li>
-<li>Consolidating resistor and capacitor values</li>
-<li>Refining LED drive and power routing</li>
-</ul>
-
-<p>
-The goal is to make the board easier to assemble and more scalable for small production runs.
-</p>
 
 <hr>
 
